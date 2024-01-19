@@ -29,6 +29,7 @@ const CreateTodoForm = ({ classes }: { classes: any }) => {
         navigate("/");
       })
       .catch((e) => {
+        alert(e.response.data.msg);
         console.log(e);
         console.log(e.response.data);
       });
