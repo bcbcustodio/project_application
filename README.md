@@ -9,7 +9,7 @@
 
 ## Backend
 
-- Navigate to the `backend` directory.
+- Navigate to the `server` directory.
 - Run `npm install` to install dependencies.
 - Run `npm run dev` to start the backend server.
 
