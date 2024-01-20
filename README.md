@@ -15,11 +15,12 @@
 
 ## Login Credentials
 - there is a test user that you can use to log in.
-- username: admin, password: admin
+- username: `admin`, password: `admin`
 - you can also opt to create your own account by clicking on the Register Here button
 
 ## Functionalities
 - There's 3 functionalities in the web app:
+  - Login and Logout
   - Add a Task
   - Read all tasks
   - update User Profile
